@@ -10,7 +10,6 @@ pre = "<b>1. </b>"
 # Getting Started
 
 ## NeuralSight Medical Imaging.
-
 Neural Labs Africa is a Health Tech Company creating AI based solutions to solve, augment and revolutionize the pressing challenges in medical diagnostics.
 
 ### Mission Statement
