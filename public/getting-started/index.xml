@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Getting Started on NeuralSight</title>
+    <link>http://example.org/getting-started/</link>
+    <description>Recent content in Getting Started on NeuralSight</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Feb 2023 14:47:09 +0330</lastBuildDate><atom:link href="http://example.org/getting-started/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Get-to-Understand-NeuralSight-AI</title>
+      <link>http://example.org/getting-started/nsight/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/getting-started/nsight/</guid>
+      <description>What is in this Documentation? This repository contains a non technical overview of the project NeuralSight. It explain in brief about the solution, the objective and requirements of the project. It also gives an oveview of how to aqquire data necessary to successfully run the project, how to de-identify the data to protect patient information and the process of data annotation.
+You will get to understand Quality control methods and approaches to data modelling to successfully build deep learning algorithms and performance evaluation that gives you a better view on how to ensure you develop a reliable and accurate Ai algorithm.</description>
+    </item>
+    
+    <item>
+      <title>Company Charter</title>
+      <link>http://example.org/getting-started/charter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/getting-started/charter/</guid>
+      <description>Introduction Neural Labs Africa is an innovative medical technology company screening Medical Images for Radiologists &amp;amp; Hospitals in real-time to identify diseases such as Pneumonia and Tuberculosis. Read the Documentation Online
+What is in This Documentation? This repository contains Neural Labs Africa Company Chater, Contributor Policies and Guidelines.
+Table of contents:  Vision Structure The problem Value Proposition Project Scope Project Risks Values and Principles Contribution Policies Contributor GuideLines Code of Conduct License  Important Resources:  What is NeuralSight NeuralSight Project Documentation NeuralSight AI Repository NeuralSight Frontend Repository Have a new Feature or an Issue you want fixed?</description>
+    </item>
+    
+    <item>
+      <title>Installation</title>
+      <link>http://example.org/getting-started/installation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/getting-started/installation/</guid>
+      <description>Item Name: NeuralSight AI Item Version: V 1.0.0 Authors: Paul N. Mwaura &amp;amp; Stephen Kamau Support Forum: https://neurallabs.africa Contact Us: info@neurallabs.africa License: GPL-3 License   The following steps are here to help you initialize your new website. If you don&amp;rsquo;t know Hugo at allFirst of all, Thank you so much for your amazing project. You are awesome! You are entitled to contribute and get free code updates to this product + exceptional support from the author directly.</description>
+    </item>
+    
+  </channel>
+</rss>
