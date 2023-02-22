@@ -3,7 +3,7 @@
 ### Chapter 1
 
 # Getting Started
-
+You can access the [project documentation 'here' Online](https://neuralsight.github.io/NeuralSight-Documentation/)
 ### NeuralSight Medical Imaging.
 Neural Labs Africa is a Health Tech Company creating AI based solutions to solve, augment and revolutionize the pressing challenges in medical diagnostics.
 
